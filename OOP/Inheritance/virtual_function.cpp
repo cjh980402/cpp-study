@@ -7,7 +7,7 @@ public:
     {
         std::cout << "This is notVirtual of mySuper" << std::endl;
     }
-    virtual void print() = 0;
+    virtual void print() = 0; // 순수 가상 함수
 };
 
 void mySuper::print()
