@@ -1,5 +1,5 @@
 // C++ 17 기능을 사용하므로 아래와 같이 컴파일한다.
-// g++- -std=c++17 if_init.cpp
+// g++ -std=c++17 if_init.cpp
 #include <iostream>
 
 int main(void)
